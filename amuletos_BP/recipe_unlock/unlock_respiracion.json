@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_unlock": {
+    "description": {
+      "identifier": "daniel:unlock_amuleto_respiracion"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:pufferfish"
+      }
+    ],
+    "recipes": [
+      "daniel:receta_amuleto_respiracion"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": { "identifier": "daniel:receta_amuleto_fuego" },
+    "tags": ["crafting_table"],
+    "pattern": [ " G ", "GSG", " G " ],
+    "key": { "G": { "item": "minecraft:gold_ingot" }, "S": { "item": "minecraft:magma_cream" } },
+    "result": { "item": "daniel:amuleto_resistencia_fuego" }
+  }
+}

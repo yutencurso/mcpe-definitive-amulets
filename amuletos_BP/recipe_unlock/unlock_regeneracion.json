@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_unlock": {
+    "description": {
+      "identifier": "daniel:unlock_amuleto_regeneracion"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:ghast_tear"
+      }
+    ],
+    "recipes": [
+      "daniel:receta_amuleto_regeneracion"
+    ]
+  }
+}

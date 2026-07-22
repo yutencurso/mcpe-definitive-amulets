@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_unlock": {
+    "description": {
+      "identifier": "daniel:unlock_amuleto_salto"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:rabbit_foot"
+      }
+    ],
+    "recipes": [
+      "daniel:receta_amuleto_salto"
+    ]
+  }
+}

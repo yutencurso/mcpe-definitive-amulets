@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Amuletos de Daniel (BP)",
+    "description": "Amuletos nuevos de Daniel para Minecraft Bedrock Edition, incluye amuletos de fuerza, velocidad, visión nocturna, resistencia al fuego y regeneración.",
+    "uuid": "3ce470c3-9fc5-4f73-b55e-242df6be9d09",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "Lógica de los Amuletos",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "d70571eb-0989-43e5-9ed2-2f76d05b6c54",
+      "version": [1, 0, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.10.0"
+    },
+    {
+      "uuid": "7ea550cc-7540-4238-a49c-000f745d5fb4",
+      "version": [1, 0, 0]
+    }
+  ]
+}

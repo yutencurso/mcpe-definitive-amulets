@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "daniel:receta_amuleto_vision_nocturna"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " G ",
+      "GZG",
+      " G "
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "Z": { "item": "minecraft:golden_carrot" }
+    },
+    "result": {
+      "item": "daniel:amuleto_vision_nocturna"
+    }
+  }
+}

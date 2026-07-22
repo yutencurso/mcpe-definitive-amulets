@@ -1,0 +1,16 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_unlock": {
+    "description": {
+      "identifier": "daniel:unlock_amuleto_fuego"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:magma_cream"
+      }
+    ],
+    "recipes": [
+      "daniel:receta_amuleto_fuego"
+    ]
+  }
+}

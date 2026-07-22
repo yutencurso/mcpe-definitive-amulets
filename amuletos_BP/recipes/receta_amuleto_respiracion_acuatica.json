@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "daniel:receta_amuleto_respiracion"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " G ",
+      "GPG",
+      " G "
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "P": { "item": "minecraft:pufferfish" }
+    },
+    "result": {
+      "item": "daniel:amuleto_respiracion_acuatica"
+    }
+  }
+}

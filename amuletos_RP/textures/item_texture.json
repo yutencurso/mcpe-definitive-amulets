@@ -1,0 +1,33 @@
+{
+  "resource_pack_name": "daniel_amuletos",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "daniel_txt_velocidad": {
+      "textures": "textures/items/amuleto_velocidad"
+    },
+    "daniel_txt_fuerza": {
+      "textures": "textures/items/amuleto_fuerza"
+    },
+    "daniel_txt_fuego": {
+      "textures": "textures/items/amuleto_resistencia_fuego"
+    },
+    "daniel_txt_regeneracion": {
+      "textures": "textures/items/amuleto_regeneracion"
+    },
+    "daniel_txt_vision": {
+      "textures": "textures/items/amuleto_vision_nocturna"
+    },
+    "daniel_txt_invisibilidad": {
+      "textures": "textures/items/amuleto_invisibilidad"
+    },
+    "daniel_txt_respiracion": { 
+      "textures": "textures/items/amuleto_respiracion" 
+    },
+    "daniel_txt_salto": { 
+      "textures": "textures/items/amuleto_salto" 
+    },
+    "daniel_txt_dios": { 
+      "textures": "textures/items/amuleto_dios" 
+    }
+  }
+}

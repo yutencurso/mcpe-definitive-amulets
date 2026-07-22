@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "daniel:receta_amuleto_invisibilidad"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      " G ",
+      "GOG",
+      " G "
+    ],
+    "key": {
+      "G": { "item": "minecraft:gold_ingot" },
+      "O": { "item": "minecraft:fermented_spider_eye" }
+    },
+    "result": {
+      "item": "daniel:amuleto_invisibilidad"
+    }
+  }
+}
