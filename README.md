@@ -40,4 +40,4 @@ This mod is made originally in Spanish (Spain) but I also added English (USA) an
 
 Made with ❤️ for Minecraft Bedrock community
 
-Made by Daniel Tejedor Muñiz
+Made by Daniel52T
